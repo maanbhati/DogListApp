@@ -1,6 +1,6 @@
 # DogListApp
 ### A Simple Dog list app, show dog breed and sub breed list to user, using MVVM clean Architecture.
-The App is using the [Dog List Api] for showing dog list of breeds and sub breeds.<br/>
+The App is using the [Dog List Api] for showing list of Dog breeds and sub breeds.<br/>
 
 ### Build With 🏗️
 - [Kotlin] - Programming language for Android
