@@ -17,7 +17,7 @@ The App is using the [Dog List Api] for showing dog list of breeds and sub breed
 - [Espresso] - For UI instrumentation testing
 - [App obfuscate] - For app obfuscation and resource shrinking enabled.
 - [DataBinding] - Used data binding for List Adaptor
-- [Jacoco] - Code coverage toll for test classes.
+- [Jacoco] - Code coverage tool for test classes.
 
   [ViewModel]: <https://developer.android.com/topic/libraries/architecture/viewmodel>
   [Hilt-Dagger]: <https://dagger.dev/hilt/>
