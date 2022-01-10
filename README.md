@@ -42,4 +42,6 @@ The App is using the [Dog List Api] for showing dog list of breeds and sub breed
 ### Project Architecture
 
 This app uses [MVVM (Model View View-Model)] architecture.
+![alt text](https://github.com/maanbhati/DogListApp/blob/main/mvvm_architecture.png?raw=true)
+
 
